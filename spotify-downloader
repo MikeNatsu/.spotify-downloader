@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python3 /home/$USERNAME/.spotify-downloader/descargar_canción.py
