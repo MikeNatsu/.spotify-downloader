@@ -6,7 +6,7 @@ import time
 location = "/home/$USERNAME/Música/"
 
 print("\n Spotify - YouTube downloader \n")
-option = (input(" 1. Descargar canción. \n 2. Descargar album. \n 3. Descargar playlist. \n 0. Salir. \n Ingrese el número de la opción deseada: "))
+option = (input(" 1. Descar2gar canción. \n 2. Descargar album. \n 3. Descargar playlist. \n 0. Salir. \n Ingrese el número de la opción deseada: "))
 
 if option == "1":
     song = input("\n Ingrese nombre o enlace de canción. (Por defecto busqueda en YouTube): ")
