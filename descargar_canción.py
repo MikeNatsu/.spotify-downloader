@@ -34,5 +34,5 @@ else:
     print(" \n Opción invalida")
 
 
-input.("\n Presiona cualquier tecla para continuar")
+input("\n Presiona cualquier tecla para continuar")
 
