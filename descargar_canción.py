@@ -24,8 +24,8 @@ elif option == "2":
 elif option == "3":
     ps_name = input("\n Ingrese nombre del la lista: ")
     ps_link = input("\n Ingrese el enlace de la lista: ")
-    os.system("mkdir /home/$USERMANE/Música/'" + ps_name + "'")
-    os.system("cd " + music_location + "'" + ps_name + "' && spotdl -a " + ps_link)
+    os.system("mkdir /home/$USERNAME/Música/'" + ps_name + "'")
+    os.system("cd " + music_location + "'" + ps_name + "' && spotdl -p " + ps_link)
     os.system("cd " + music_location + "'" + ps_name + "' && spotdl -l *.txt")
     os.system("cd " + music_location + "'" + ps_name + "' && rm *.txt")
 elif option == "0":
