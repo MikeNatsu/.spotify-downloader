@@ -1,4 +1,5 @@
 # spotify-downloader
 
-Un proojecto probando lo aprendido en python, principalmente el if.
-  
+Esto ya no funciona, ni funcionará hasta que me ponga a ello.
+
+Gracias por preferirnos.
